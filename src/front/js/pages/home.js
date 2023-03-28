@@ -12,7 +12,7 @@ export const Home = () => {
 		<>
 		<div  className="">
 
-    <h1 className="d-flex justify-content-center ">Inicio de sesion</h1>
+    <h1 className="d-flex justify-content-center ">Inicio de sesion(private)</h1>
 
 	
 	<Link to="register">
